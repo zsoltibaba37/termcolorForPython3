@@ -18,7 +18,7 @@
 ```
 ## Usage
 
-```
+```python
 #!/usr/bin/env python 3
 
 from termcolor import cprint
