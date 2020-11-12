@@ -26,5 +26,3 @@ from termcolor import cprint
 cprint("Hello Wrold!", 'green')
 ```
 
-
-# termcolorForPython3
